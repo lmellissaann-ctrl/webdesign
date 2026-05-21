@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;
+}
+
+.header{
+    text-align: center;
+    padding: 20px;
+}
+
+.menu{
+    text-align: center;
+    padding: 10px;
+}
+
+.menu a{
+    margin: 10px;
+    text-decoration: none;
+}
+
+.content{
+    text-align: center;
+    padding: 20px;
+}
+
+.footer{
+    text-align: center;
+    padding: 20px;
+}
